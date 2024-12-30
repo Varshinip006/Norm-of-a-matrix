@@ -46,15 +46,15 @@ print(result)
 ```
 ## Output:
 ### 1-Norm of a Matrix
-<br>![exp 7 1 maths](https://github.com/user-attachments/assets/08a85603-7604-42bf-81b1-c13a181cee77)
+<br>![exp 7 1 maths](exp%207.1.maths.png)
 <br>
 <br>
 ### 2-Norm of a Matrix
-<br>![exp 7 2 maths](https://github.com/user-attachments/assets/44bac963-49f9-4da6-952b-95ef0ae49ee7)
+<br>![exp 7 2 maths](exp%207.2.maths.png)
 <br>
 <br>
 ### Infinity Norm of a Matrix
-<br>![exp 7 3 maths](https://github.com/user-attachments/assets/c6d6e9a9-7993-4918-a989-25f205a1786a)
+<br>![exp 7 3 maths](exp%207.3.maths.png)
 <br>
 <br>
 ## Result
